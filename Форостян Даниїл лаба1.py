@@ -40,18 +40,3 @@ print(a >= b)
 print(a <= b)
 print(a != b)
 #всі опери порівняння що я пам'ятаю
-
-x = True
-y = False
-
-print("AND:", x and y)
-print("OR:", x or y)
-print("NOT:", not x)
-
-a = 5
-b = 3
-a += 2
-b *= 2
-
-print("a після +=:", a)
-print("b після *=:", b)
