@@ -4,8 +4,21 @@ age = 17
 name = "Daniil"
 height = 1.80
 student_tfk_lntu = True
+list = [1, 2, 3]
+tuple = (1, 2, 3)
+dict = {"name": "Daniil"}
+set = {1, 2, 3}
+
 print("Hello World!")
 print(type(age))
+print(age)
+print(name)
+print(height)
+print(student_tfk_lntu)
+print(list, type(list))
+print(tuple, type(tuple))
+print(dict, type(dict))
+print(set, type(set))
 
 x = 3
 y = 6
