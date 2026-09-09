@@ -1,10 +1,11 @@
 
 # якщо не помиляюсь то я написвав все що я пам'ятаю з курсів IT_OSVITA GRAND:(
-print("Hello World!")
 age = 17
 name = "Daniil"
 height = 1.80
 student_tfk_lntu = True
+print("Hello World!")
+print(type(age))
 
 x = 3
 y = 6
