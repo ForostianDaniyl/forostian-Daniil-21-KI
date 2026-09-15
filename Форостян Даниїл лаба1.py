@@ -32,11 +32,3 @@ print(y / x)
 print(a // b)
 print(a % b)
 print(a ** b)
-
-print(x > y)
-print(x < y)
-print(x == y)
-print(a >= b)
-print(a <= b)
-print(a != b)
-#всі опери порівняння що я пам'ятаю
